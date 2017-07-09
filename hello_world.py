@@ -2,7 +2,6 @@
 #coding=utf-8
 #author='J.Dai'
 
-print("Hello world!")
 
 def test():
     now_time = time.time()
@@ -12,3 +11,4 @@ def test():
 
 if __name__ == '__main__':
     test()
+    print("Hello world!")
