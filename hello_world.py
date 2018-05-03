@@ -10,6 +10,8 @@ def test():
     a = 10
     a += 1
     b = 'test string'
+    print("a is", a)
+    print("b is", b)
 
 if __name__ == '__main__':
     test()
