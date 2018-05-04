@@ -1,3 +1,3 @@
 Hello, this is a script with amazing new feature!
 
-Feature id: 1111
+Feature id: 2222
